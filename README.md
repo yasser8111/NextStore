@@ -1,2 +1,2 @@
 # NextStore
-NEXT STORE PROJACT
+A clean and modern e-commerce website template featuring a sleek black-and-white color scheme. Designed with simplicity and usability in mind, it offers a user-friendly interface, large product images, and intuitive navigation. The minimal design ensures the focus remains on the products, while the contrast of dark and light elements creates a premium and professional look. Perfect for online stores selling fashion, electronics, accessories, and more.
